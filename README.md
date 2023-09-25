@@ -2,7 +2,7 @@
 This is a simple dice roller app. Crerated with Kotlin and Jetpack Compose. Click the ROLL button to get a random pick between 1 to 6. 
 Enjoy playing...
 
-[*Download*](https://drive.google.com/file/d/1kijVthJ3uhWAwrthePdIJi-j5WYcpL5M/view?usp=sharing) (Google Drive)
+[*Download*](https://drive.google.com/file/d/1kijVthJ3uhWAwrthePdIJi-j5WYcpL5M/view?usp=sharing) &nbsp; (Google Drive)
 
 ***App Screenshot:***   
 <img src="https://github.com/kausaraahmed/Dice_Roller_App/assets/111121885/af5f9989-cfeb-4294-99d3-fa53aec0b15e.jpg" width="200" height="400">
